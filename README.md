@@ -1,5 +1,7 @@
 # Dotabuff Pro Rating Algorithm
 
+![Build Status](https://travis-ci.org/dotabuff/dbpr.svg)
+
 This repository contains the full source to the Dotabuff Pro Rating Algorithm
 (DBPR) in Go.
 

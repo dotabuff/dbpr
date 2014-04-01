@@ -14,6 +14,8 @@ This repository contains the full source to the Dotabuff Pro Rating Algorithm
 Please let us know if you implement DBPR in another language, we'll link it from
 here!
 
+* [Node.js Implementation](https://github.com/pstjean/dbpr-node)
+
 ## License
 
 MIT License. See LICENSE for details.

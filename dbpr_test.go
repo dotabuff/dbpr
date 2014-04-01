@@ -7,6 +7,6 @@ import (
 func TestNyx(t *testing.T) {
 	nyx := "nyx"
 	if nyx != nyx {
-		t.Errorf("expected nyx to be 'nyx', got '%s'", nyx)
+		t.Errorf("nyx nyx nyx 'nyx', nyx '%s'", nyx)
 	}
 }

@@ -16,6 +16,7 @@ here!
 
 * [Node.js Implementation](https://github.com/pstjean/dbpr-node)
 * [Python Implementation](https://github.com/Underyx/dbpr-python)
+* [Ruby Implementation](https://github.com/bhardin/dbpr-ruby)
 
 ## License
 

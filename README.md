@@ -18,6 +18,7 @@ here!
 * [Python Implementation](https://github.com/Underyx/dbpr-python)
 * [Ruby Implementation](https://github.com/bhardin/dbpr-ruby)
 * [C++ Implementation] (https://github.com/Bumrang/dbpr-cpp)
+* [C# Implementation] (https://github.com/dimapasko/dbpr-csharp)
 
 ## License
 
